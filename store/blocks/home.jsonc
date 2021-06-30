@@ -36,7 +36,16 @@
         "shelf#demo3",
         "tab-layout#chat"
       ]
-    },
+          //Condicionar
+      /*"parent": {
+        "challenge": "challenge.trade-policy-condition"
+        }*/
+      },
+      /*"challenge.trade-policy-condition": {
+        "props": {
+          "redirectPath"  : "/login"
+        }
+      },*/
     //Slider Principal
     "slider-layout#text-test": {
       "props": {

@@ -261,3 +261,6 @@ h3{
   border-left: none;
 }
  }
+ .dontHaveAccount{
+   display: none;
+ }

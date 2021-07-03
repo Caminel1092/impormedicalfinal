@@ -9,7 +9,10 @@
         },
         "minItemsPerPage": 12,
         "maxItemsPerPage": 15
-     }
+     },
+    "parent": {
+      "challenge": "challenge.trade-policy-condition"
+      }
   },
     "search-result-layout": {
       "blocks": [
@@ -39,7 +42,10 @@
           },
           "minItemsPerPage": 12,
           "maxItemsPerPage": 15
-       }
+       },
+       "parent": {
+        "challenge": "challenge.trade-policy-condition"
+        }
     },
     "store.search#brand": {
       "blocks": [        
@@ -54,7 +60,10 @@
           },
           "minItemsPerPage": 12,
           "maxItemsPerPage": 15
-       }
+       },
+       "parent": {
+        "challenge": "challenge.trade-policy-condition"
+        }
     },
     "store.search#department": {
       "blocks": [        
@@ -69,7 +78,10 @@
           },
           "minItemsPerPage": 15,
           "maxItemsPerPage": 15
-       }
+       },
+       "parent": {
+        "challenge": "challenge.trade-policy-condition"
+        }
     },
     "store.search#subcategory": {
       "blocks": [        
@@ -84,7 +96,10 @@
           },
           "minItemsPerPage": 15,
           "maxItemsPerPage": 15
-       }
+       },
+       "parent": {
+        "challenge": "challenge.trade-policy-condition"
+        }
     },
     //Construcción Desktop category
     "search-result-layout.desktop": {
@@ -99,7 +114,10 @@
         "minItemsPerPage": 12,
         "maxItemsPerPage": 15
 
-      }
+      },
+      "parent": {
+        "challenge": "challenge.trade-policy-condition"
+        }
     },
 
     "breadcrumb.search#RutaCategoria":{

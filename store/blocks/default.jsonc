@@ -160,9 +160,13 @@
     "props":{
       "blockClass": "newprice"
     }
+  },
+
+  "challenge.trade-policy-condition": {
+    "props": {
+      "redirectPath"  : "/login"
+    }
   }
-
-
 
 
 }

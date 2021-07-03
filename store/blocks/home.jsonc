@@ -15,9 +15,6 @@
     "children": ["store.home#Mobile"]
   },
 
-
-
-  
     "store.home#desk": {
       "blocks": [
         "slider-layout#text-test",
@@ -35,17 +32,12 @@
         "rich-text#title3",
         "shelf#demo3",
         "tab-layout#chat"
-      ]
+      ],
           //Condicionar
-      /*"parent": {
+      "parent": {
         "challenge": "challenge.trade-policy-condition"
-        }*/
-      },
-      /*"challenge.trade-policy-condition": {
-        "props": {
-          "redirectPath"  : "/login"
         }
-      },*/
+      },
     //Slider Principal
     "slider-layout#text-test": {
       "props": {

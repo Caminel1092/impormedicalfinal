@@ -12,8 +12,12 @@
       "rich-text#product2",
     /*  "shelf.relatedProducts#2",*/
       "shelf#demo6"
-    ]
+    ],
+    "parent": {
+      "challenge": "challenge.trade-policy-condition"
+      }
   },
+
   
   "flex-layout.row#product-breadcrumb": {
     "props": {

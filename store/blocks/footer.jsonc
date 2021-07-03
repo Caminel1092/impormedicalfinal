@@ -16,8 +16,8 @@
       "flex-layout.col#footer6",
       "newsletter-form",
       "flex-layout.row#footerDM",
-      "rich-text#footitle7",
-      "image#BannerPagos",
+      //"rich-text#footitle7",
+      //"image#BannerPagos",
       "flex-layout.row#extrafoot"
       
     ]
@@ -292,9 +292,9 @@
     "children":[
       "rich-text#footitle5",
       "rich-text#foo16",
-     /* "rich-text#foo17",
+      "rich-text#foo17",
       "rich-text#foo18",
-      "rich-text#foo161",*/
+      "rich-text#foo161",
       "rich-text#foo171",
       "rich-text#foo181",
       "rich-text#foo162"
@@ -314,7 +314,7 @@
   },
   "rich-text#foo16":{
     "props": {
-      "text": "[Politica de privacidad](/faqs)",
+      "text": "[Politica de privacidad](/privacidad)",
       "textAlignment": "left",
       "font": "t-heading-3",
       "textPosition": "left",
@@ -323,7 +323,7 @@
   },
   "rich-text#foo17":{
     "props": {
-      "text": "[Politica de devoluciones](/faqs)",
+      "text": "[Politica uso de cookies](/coockies)",
       "textAlignment": "left",
       "font": "t-heading-3",
       "textPosition": "left",
@@ -332,7 +332,7 @@
   },
   "rich-text#foo18":{
     "props": {
-      "text": "[Politica de garantias](/faqs)",
+      "text": "[Propuestas de valor](/faqs)",
       "textAlignment": "left",
       "font": "t-heading-3",
       "textPosition": "left",
@@ -341,7 +341,7 @@
   },
   "rich-text#foo161":{
     "props": {
-      "text": "[Politica de cancelación](/faqs)",
+      "text": "[Politica de devolución](/devoluciones)",
       "textAlignment": "left",
       "font": "t-heading-3",
       "textPosition": "left",
@@ -380,9 +380,9 @@
   "flex-layout.col#footer6":{
     "children":[
       "rich-text#footitle6",
-      "newsletter-form",
-      "rich-text#footitle7",
-      "image#BannerPagos"
+      "newsletter-form"
+      //"rich-text#footitle7",
+      //"image#BannerPagos"
     ],
     "props":{
       "blockClass": "footerC"
@@ -474,20 +474,20 @@
       "blockClass":"textfool3"
     }
   },
-  "image#BannerPagos": {
+  /*"image#BannerPagos": {
     "props": {
       "src": "https://impormedical.vteximg.com.br/arquivos/footerimpormedical.png",
       "blockClass":"BannerProductFOOTER"
     }
-  },
-  "image#BannerPagosM": {
+  },*/
+  /*"image#BannerPagosM": {
     "props": {
       "src": "https://impormedical.vteximg.com.br/arquivos/footerimpormedical.png",
       "blockClass":"BannerProductFOOTER",
       "title": "Nuestro métodos de pago:"
     }
-  },
-  "rich-text#footitle7":{
+  },*/
+  /*"rich-text#footitle7":{
     "props": {
       "text": "Nuestros metodos de pago",
       "textAlignment": "left",
@@ -495,7 +495,7 @@
       "textPosition": "left",
       "blockClass": "tittle-nuestrosMetodosdePego"
     }
-  },
+  },*/
   "newsletter-form": {
     "children": [
       "flex-layout.row#inputs",

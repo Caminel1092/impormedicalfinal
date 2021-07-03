@@ -13,5 +13,12 @@
     },
     "store.product#registro": {
       "path": "/registro"
+    },
+    "store.custom#devo": {
+      "path": "/devoluciones"
+    },
+    "store.custom#coockies": {
+      "path": "/coockies"
     }
+
   }

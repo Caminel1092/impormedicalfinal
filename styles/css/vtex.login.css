@@ -143,7 +143,7 @@ h3{
   font-size: 28px;
 }
 .contentFormVisible .formTitle:Before{
-  content: "REGÍSTRATE";
+  content: "Ingresa tu mail";
   DISPLAY: block;
     margin: 0 0 10px 0;
   color: #177de3;
